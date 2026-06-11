@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Alessia Vincenti Allestimenti Roma</title>
+    <link href="https://alessiavincentiallestimenti.it/feed.xml" rel="self" />
+    <link href="https://alessiavincentiallestimenti.it" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>Alessia Vincenti</name>
+    </author>
+    <id>https://alessiavincentiallestimenti.it</id>
+
+</feed>
