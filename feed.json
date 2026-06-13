@@ -14,8 +14,8 @@
             "id": "https://www.alessiavincentiallestimenti.it/servizi.html",
             "url": "https://www.alessiavincentiallestimenti.it/servizi.html",
             "title": "Servizi",
-            "summary": "<div class=\"cta-container\">\n<h2 class=\"cta-text\">Scopri cosa posso realizzare per te</h2>\n<p> </p>\n",
-            "content_html": "<div class=\"cta-container\">\n<h2 class=\"cta-text\">Scopri cosa posso realizzare per te</h2>\n<p> </p>\n</div>\n<ul style=\"color: #79480d; list-style-type: disc; padding-left: 20px; font-family: sans-serif;\">\n<li style=\"text-align: justify; margin-bottom: 10px;\"><strong>Allestimenti e Scenografie:</strong> Il cuore del mio lavoro, progettato su misura per ogni evento.</li>\n<li style=\"text-align: justify; margin-bottom: 10px;\"><strong>Tableau de Mariage e Seating Plan:</strong> Scenografie studiate per guidare i tuoi ospiti con eleganza.</li>\n<li style=\"text-align: justify; margin-bottom: 10px;\"><strong>Centrotavola e Mise en Place:</strong> Dettagli raffinati (menù, segnaposti) che definiscono l'atmosfera.</li>\n<li style=\"text-align: justify; margin-bottom: 10px;\"><strong>Confettate e Sweet Table:</strong> Angoli golosi, curati esteticamente con una palette colori dedicata.</li>\n<li style=\"text-align: justify; margin-bottom: 10px;\"><strong>Bomboniere e Inviti Digitali:</strong> Il tocco finale, coordinato perfettamente con il concept del tuo evento.</li>\n</ul>",
+            "summary": "<p class=\"align-center\"><strong>Scopri i servizi per te dedicati.</strong></p>\n",
+            "content_html": "<p class=\"align-center\"><strong>Scopri i servizi per te dedicati.</strong></p>\n\n<ul style=\"color: #79480d; list-style-type: disc; padding-left: 20px; font-family: sans-serif;\">\n<li style=\"text-align: justify; margin-bottom: 15px;\"><strong>Allestimenti e Scenografie: </strong>Il cuore del mio lavoro, progettato su misura per ogni evento. Vedrai in anticipo il tuo allestimento grazie al mio concept emozionale.</li>\n<li style=\"text-align: justify; margin-bottom: 15px;\"><strong>Tableau de Mariage e Seating Plan:</strong> Scenografie studiate per guidare i tuoi ospiti con eleganza, realizzate su misura per il tuo evento con grafiche uniche.</li>\n<li style=\"text-align: justify; margin-bottom: 15px;\"><strong>Centrotavola e Mise en Place:</strong> Dettagli raffinati (menù, segnaposti) che definiscono l'atmosfera, realizzati personalizzati e coordinati solo per il tuo evento.</li>\n<li style=\"text-align: justify; margin-bottom: 15px;\"><strong>Confettata:</strong> Curata esteticamente con una palette colori dedicata.</li>\n<li style=\"text-align: justify; margin-bottom: 15px;\"><strong>Bomboniere:</strong> Vi affianchiamo con una consulenza su misura per selezionare bomboniere perfettamente in linea con il tema del vostro evento, guidandovi nella scelta senza gestire la vendita diretta del prodotto.</li>\n<li style=\"text-align: justify; margin-bottom: 15px;\"><strong>Inviti Digitali:</strong> Creazioni grafiche interattive e personalizzate, studiate per annunciare il vostro evento con uno stile unico e coordinato al concept grafico scelto.</li>\n</ul>",
             "image": "https://www.alessiavincentiallestimenti.it/media/posts/30/servizi.jpg",
             "author": {
                 "name": "Alessia Vincenti"
@@ -23,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2026-06-13T01:55:11+02:00",
-            "date_modified": "2026-06-13T11:42:21+02:00"
+            "date_modified": "2026-06-13T13:00:04+02:00"
         }
     ]
 }
