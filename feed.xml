@@ -3,7 +3,7 @@
     <title>Alessia Vincenti Allestimenti Roma</title>
     <link href="https://www.alessiavincentiallestimenti.it/feed.xml" rel="self" />
     <link href="https://www.alessiavincentiallestimenti.it" />
-    <updated>2026-06-16T20:19:03+02:00</updated>
+    <updated>2026-06-16T20:24:21+02:00</updated>
     <author>
         <name>Alessia Vincenti</name>
     </author>
@@ -92,14 +92,14 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://www.alessiavincentiallestimenti.it/media/posts/30/servizi.jpg" alt="Alessia Vincenti realizza su Roma Allestimenti a tema, Ballon decor moderna, confettata, tableau, centrotavola, mise en place, bomboniere, inviti digitali, grafiche uniche, tutto personalizzato solo per il tuo evento." />
-                    <h1 style="text-align: center; margin-bottom: 25px;"><strong>Scopri tutti i servizi</strong></h1>
+                    <h1 style="text-align: center; margin: 0 0 20px 0; font-size: clamp(1.5rem, 4vw, 2rem); line-height: 1.2;"><strong>Scopri tutti i servizi.</strong></h1>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://www.alessiavincentiallestimenti.it/media/posts/30/servizi.jpg" class="type:primaryImage" alt="Alessia Vincenti realizza su Roma Allestimenti a tema, Ballon decor moderna, confettata, tableau, centrotavola, mise en place, bomboniere, inviti digitali, grafiche uniche, tutto personalizzato solo per il tuo evento." /></p>
-                <h1 style="text-align: center; margin-bottom: 25px;"><strong>Scopri tutti i servizi</strong></h1>
+                <h1 style="text-align: center; margin: 0 0 20px 0; font-size: clamp(1.5rem, 4vw, 2rem); line-height: 1.2;"><strong>Scopri tutti i servizi.</strong></h1>
 
 <ul style="color: #79480d; list-style-type: disc; padding-left: 20px; font-family: sans-serif;">
 <li style="text-align: justify; margin-bottom: 15px;"><strong>Allestimenti e Scenografie: </strong>Il cuore del mio lavoro, progettato su misura per ogni evento. Vedrai in anticipo il tuo allestimento grazie al mio concept emozionale.</li>
@@ -109,9 +109,9 @@
 <li style="text-align: justify; margin-bottom: 15px;"><strong>Bomboniere:</strong> Vi affianchiamo con una consulenza su misura per selezionare bomboniere perfettamente in linea con il tema del vostro evento, guidandovi nella scelta senza gestire la vendita diretta del prodotto.</li>
 <li style="text-align: justify; margin-bottom: 15px;"><strong>Inviti Digitali:</strong> Creazioni grafiche interattive e personalizzate, studiate per annunciare il vostro evento con uno stile unico e coordinato al concept grafico scelto.</li>
 </ul>
-<div style="text-align: center; margin-top: 30px;">
-<p style="margin-bottom: 15px; font-weight: bold;">Scopri gli allestimenti realizzati:</p>
-<a href="https://www.alessiavincentiallestimenti.it/allestimenti-2.html" class="custom-link-foto" style="display: inline-block; padding: 10px 20px; text-decoration: none;"> CLICCA QUI </a></div>
+<div style="text-align: center; margin-top: 20px;">
+<p style="margin-bottom: 10px; font-weight: bold;">Scopri gli allestimenti realizzati:</p>
+<a href="https://www.alessiavincentiallestimenti.it/allestimenti-2.html" class="custom-link-foto" style="display: inline-block; padding: 8px 16px; text-decoration: none; border: 1px solid #79480d; color: #79480d; font-weight: bold; border-radius: 5px;"> CLICCA QUI </a></div>
             ]]>
         </content>
     </entry>
