@@ -3,7 +3,7 @@
     <title>Alessia Vincenti Allestimenti Roma</title>
     <link href="https://www.alessiavincentiallestimenti.it/feed.xml" rel="self" />
     <link href="https://www.alessiavincentiallestimenti.it" />
-    <updated>2026-06-16T19:00:32+02:00</updated>
+    <updated>2026-06-16T20:19:03+02:00</updated>
     <author>
         <name>Alessia Vincenti</name>
     </author>
@@ -92,14 +92,14 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://www.alessiavincentiallestimenti.it/media/posts/30/servizi.jpg" alt="Alessia Vincenti realizza su Roma Allestimenti a tema, Ballon decor moderna, confettata, tableau, centrotavola, mise en place, bomboniere, inviti digitali, grafiche uniche, tutto personalizzato solo per il tuo evento." />
-                    <h2 class="align-center"><strong>Scopri tutti i servizi.</strong></h2>
+                    <h1 style="text-align: center; margin-bottom: 25px;"><strong>Scopri tutti i servizi</strong></h1>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://www.alessiavincentiallestimenti.it/media/posts/30/servizi.jpg" class="type:primaryImage" alt="Alessia Vincenti realizza su Roma Allestimenti a tema, Ballon decor moderna, confettata, tableau, centrotavola, mise en place, bomboniere, inviti digitali, grafiche uniche, tutto personalizzato solo per il tuo evento." /></p>
-                <h2 class="align-center"><strong>Scopri tutti i servizi.</strong></h2>
+                <h1 style="text-align: center; margin-bottom: 25px;"><strong>Scopri tutti i servizi</strong></h1>
 
 <ul style="color: #79480d; list-style-type: disc; padding-left: 20px; font-family: sans-serif;">
 <li style="text-align: justify; margin-bottom: 15px;"><strong>Allestimenti e Scenografie: </strong>Il cuore del mio lavoro, progettato su misura per ogni evento. Vedrai in anticipo il tuo allestimento grazie al mio concept emozionale.</li>
@@ -107,9 +107,11 @@
 <li style="text-align: justify; margin-bottom: 15px;"><strong>Centrotavola e Mise en Place:</strong> Dettagli raffinati (menù, segnaposti) che definiscono l'atmosfera, realizzati personalizzati e coordinati solo per il tuo evento.</li>
 <li style="text-align: justify; margin-bottom: 15px;"><strong>Confettata:</strong> Curata esteticamente con una palette colori dedicata.</li>
 <li style="text-align: justify; margin-bottom: 15px;"><strong>Bomboniere:</strong> Vi affianchiamo con una consulenza su misura per selezionare bomboniere perfettamente in linea con il tema del vostro evento, guidandovi nella scelta senza gestire la vendita diretta del prodotto.</li>
-<li style="text-align: justify; margin-bottom: 15px;"><strong>Inviti Digitali:</strong> Creazioni grafiche interattive e personalizzate, studiate per annunciare il vostro evento con uno stile unico e coordinato al concept grafico scelto.                                                                                                                                                                                                                                                                               Scopri gli allestimenti realizzati<span style="text-decoration: underline;"><a href="https://www.alessiavincentiallestimenti.it/allestimenti-2.html"> clicca qui</a></span></li>
+<li style="text-align: justify; margin-bottom: 15px;"><strong>Inviti Digitali:</strong> Creazioni grafiche interattive e personalizzate, studiate per annunciare il vostro evento con uno stile unico e coordinato al concept grafico scelto.</li>
 </ul>
-<p> </p>
+<div style="text-align: center; margin-top: 30px;">
+<p style="margin-bottom: 15px; font-weight: bold;">Scopri gli allestimenti realizzati:</p>
+<a href="https://www.alessiavincentiallestimenti.it/allestimenti-2.html" class="custom-link-foto" style="display: inline-block; padding: 10px 20px; text-decoration: none;"> CLICCA QUI </a></div>
             ]]>
         </content>
     </entry>
